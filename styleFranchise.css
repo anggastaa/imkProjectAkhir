@@ -1,0 +1,62 @@
+body{
+	background-color: #eaeaea;
+}
+
+.carousel-item{
+	height: 80%;
+}
+.carousel-item img{
+	margin-top: -10px;
+
+}
+.carousel-item .display-4{
+	margin-top: -670px;
+}	
+
+.navbar .navbar-brand img{
+	width: 70px;
+	height: 5	4px;
+}
+
+@media (max-width: 768px) { 
+	.navbar .navbar-brand img{
+		width: 50px;
+		height: 37px;
+	}
+
+ }
+
+
+ .container h1{
+ 	text-align: center;
+ 	font-family: arial;
+ }
+
+
+
+
+
+
+ .footer-links a{
+
+	font-family: arial;
+
+}
+.footer-links li{
+	padding-top: 3px;
+	font-size: 1rem;
+}
+footer .footer-links{
+	padding-left: 0px;
+
+}
+.footer-social li{
+	display: inline-block;
+
+}
+footer .footer-social{
+	padding-left: 0px;
+
+}
+
+
